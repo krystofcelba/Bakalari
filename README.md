@@ -1,7 +1,7 @@
 Bakalari
 ========
 
-Python api for czech school administration app. Currently only can gets grades.
+Python api for czech school administration app. Currently only can get grades.
 
 Sample use: 
 ```python
